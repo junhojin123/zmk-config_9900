@@ -189,7 +189,7 @@
 &bt0          &bt1            &td0           &bt2        &bt3
 &none         &kp UP          &kp PAGE_UP    &sys_reset  &mt LESS_THAN LEFT_BRACE  &mt GREATER_THAN RIGHT_BRACE    &none       &kp TILDE  &kp PIPE     &kp KP_EQUAL
 &kp LEFT      &kp DOWN        &kp RIGHT      &kp HOME    &kp BSLH                  &kp AMPS                        &none       &none      &kp CARET    &kp BSPC
-&sk LALT      &td_trackpd     &kp PAGE_DOWN  &kp END     &bl BL_DEC                &bl BL_TOG                      &bl BL_INC  &bt4       &td_bootldr  &kp ENTER
+&sk RALT      &td_trackpd     &kp PAGE_DOWN  &kp END     &bl BL_DEC                &bl BL_TOG                      &bl BL_INC  &bt4       &td_bootldr  &kp ENTER
                               &sk LSHFT                  &sk LCTRL                 &hm OUT_TOG SPACE               &td1        &to 0
             >;
         };
